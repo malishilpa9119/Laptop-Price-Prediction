@@ -3,7 +3,7 @@
 A **Machine Learning web application** that predicts the **price of laptops** based on their specifications such as brand, RAM, CPU, GPU, screen size, and storage.  
 The model is trained with real-world laptop data and deployed using **Flask**.  
 
----
+## project deployment link - https://laptop-price-prediction-1-plgp.onrender.com/
 
 ## Project Overview
 
